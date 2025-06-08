@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+joblib
+lightgbm
+category_encoders
+xgboost
