@@ -74,7 +74,7 @@ input_df["BARRIO"] = encoder.transform(input_df[["BARRIO"]]).ravel()
 if st.button("Predecir precio"):
        
        y_pred = model.predict(input_df)[0]
-       st.success(f"El precio del departamento es de: ${np.expm1(y_pred):,.2f}")
+       st.success(f"El precio del departamento es de: U$S {np.expm1(y_pred):,.2f}")
        
        import streamlit as st
 
