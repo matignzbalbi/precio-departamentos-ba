@@ -6,6 +6,7 @@
 
 ## 📌 Español
 
+
 Aplicación interactiva desarrollada con **Streamlit** que predice el precio estimado de un departamento en la Ciudad de Buenos Aires, utilizando un modelo de machine learning entrenado con **XGBoost**.
 
 🔍 El modelo se entrena con un dataset real del mercado inmobiliario porteño, incorporando variables como:
@@ -23,6 +24,7 @@ Aplicación interactiva desarrollada con **Streamlit** que predice el precio est
 ---
 
 ## 📌 English
+
 
 Interactive app built with **Streamlit** to estimate the price of an apartment in **Buenos Aires**, using a machine learning model trained with **XGBoost**.
 
